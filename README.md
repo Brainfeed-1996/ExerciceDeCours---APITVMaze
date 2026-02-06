@@ -1,2 +1,3 @@
-# ExerciceDeCours---APITVMaze
-Affiche le résumé d'une série en tapant son nom dans la barre de recherche
+﻿# ExerciceDeCours---APITVMaze
+Affiche le rÃ©sumÃ© d'une sÃ©rie en tapant son nom dans la barre de recherche
+
